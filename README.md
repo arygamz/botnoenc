@@ -1,13 +1,13 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dhaffnavyz/DaisuXe-Md/)
 
-[![Run on Repl.it](https://repl.it/badge/github/dhaffnavyz/DaisuXe-Md)](https://repl.it/github/dhaffnavyz/DaisuXe-Md)
+[![Run on Repl.it](https://repl.it/badge/github.com/arygamz)](https://repl.it/github.com/arygamz)
 
 
 # Note
 ```
 Ambil dulu session atau scan
 
-$ git clone https://github.com/dhaffnavyz/Qr
+$ git clone https://github.com/arygamz/Qr
 $ cd Qr
 $ node index
 
@@ -15,30 +15,20 @@ Scan dulu trus ambil sessionnya
 ```
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/dhaffnavyz" width="200" height="200"/>
+<img src="https://avatars.githubusercontent.com/arygamz" width="200" height="200"/>
 </p>
 <p align="center">
-  <a href="https://dhaffnavyz"><img src="http://readme-typing-svg.herokuapp.com?color=0000ff&center=true&vCenter=true&multiline=false&lines=Thank+for+using+DaisuXe+Bot+" alt="Asu">
+  <a href="https://arygamz"><img src="http://readme-typing-svg.herokuapp.com?color=0000ff&center=true&vCenter=true&multiline=false&lines=Thank+for+using+DaisuXe+Bot+" alt="Asu">
 </p>
 <p align="center">
-<a href="https://siegrin.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-DhaffOfficial-gold.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/dhaffnavyz/followers"><img title="Followers" src="https://img.shields.io/github/followers/siegrin?color=green&style=flat-square"></a>
-<a href="https://github.com/dhaffnavyz/DaisuXe-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/dhaffnavyz/DaisuXe-Md?color=white&style=flat-square"></a>
-<a href="https://github.com/dhaffnavyz/DaisuXe-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/dhaffnavyz/DaisuXe-Md?color=yellow&style=flat-square"></a>
-<a href="https://github.com/dhaffnavyz/DaisuXe-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/dhaffnavyz/DaisuXe-Md?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/dhaffnavyz/DaisuXe-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/dhaffnavyz/DaisuXe-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/dhaffnavyz/DaisuXe-Md?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhaffnavyz%2FDaisuXe-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/dhaffnavyz/DaisuXe-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://siegrin.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-arygamz-gold.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ## Team and Friends
 
  [<img src="https://avatars.githubusercontent.com/dhaffnavyz" width="100" height="100"/>](https://github.com/adjiwajshing) | [<img src="https://avatars.githubusercontent.com/zeeone" width="100" height="100"/>](https://github.com/frmanz) | [<img src="https://avatars.githubusercontent.com/deff" width="100" height="100"/>](https://github.com/deff) | [<img src="https://avatars.githubusercontent.com/dikaardnt" width="100" height="100"/>](https://github.com/dhaffnavytzy)
 ----|----|----|----
-[DHAFF](https://github.com/dhaffnavyz) | [FRMANZ](https://github.com/frmanz) | [DEFF](https://github.com/deff.tzy)| [DIKA(stepbrother)](https://github.com/dikaardnt)
+[DHAFF](https://github.com/arygamz) | [FRMANZ](https://github.com/frmanz) | [DEFF](https://github.com/deff.tzy)| [DIKA(stepbrother)](https://github.com/dikaardnt)
 
 
 ## Setting
@@ -128,7 +118,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/dhaffnavyz/DaisuXe-Md
+git clone https://github.com/AryGamz/botnoenc
 cd DaisuXe-Md
 bash install.sh
 pkg install yarn
@@ -144,7 +134,7 @@ yarn
 * Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) 
 
 ```bash
-git clone https://github.com/dhaffnavyz/DaisuXe-Md
+git clone https://github.com/AryGamz/botnoenc
 cd DaisuXe-Md
 npm install
 ```
@@ -176,7 +166,7 @@ https://github.com/dhaffnavyz/heroku-buildpack-webp-binaries.git
 <details>
   <summary>REPLIT</summary>
 	
-* [`Click Me`](https://repl.it/github.com/dhaffnavyz/DaisuXe-Md)
+* [`Click Me`](https://repl.it/github.com/AryGamz/botnoenc)
 ```bash
 Klik button
 Buka console
@@ -185,8 +175,8 @@ npm i
 </details>
 
 ## Donate
-* [`Saweria`](https://saweria.co/dhaffnavy)
-* [`Trakteer`](https://trakteer.id/dhafa-navy-o8tob/tip)
+* [`Saweria`](https://saweria.co/AryBotz)
+* 
 * ## FEATURE LIST 💡
 
 | FEATURE |🌱|
@@ -194,7 +184,7 @@ npm i
 | MAGER|O|
 | Anti Troli|O|
 ## Full Info
-- [Bio](https://instabio.cc/dhaffnavyz)
+- [Bio](https://instabio.cc/AryBotz)
   
 
 
