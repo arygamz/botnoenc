@@ -55,32 +55,28 @@ You can change session in `'./session.json'`
 You can edit owner and other in `'./settings.json'`
 ```ts
 {
-	"text": "Hii im Daisuke Bot Vol 14.",
-	"prefix": "#",
-	"bi": "➮",
-	"botNumber": "6285797226828", 
-	"NamaBot": "Daisuxe Bot", 	
-	"namo": "DAISUKE", 
-	"ator": "BOT",
-	"limit": "15",
-	"localuser": "+628",
-	"supportme": "instabio.cc/dhaffnavyz", 
-	"fakereply": "YT DHAFF OFFICIAL", 
-	"ownername": "DHAFF OFFICIAL", 
-	"owner": "6285797226828", 
-	"owner2": "083824417034", 
-	"ownername2": "DHAFF OFFICIAL", 
-	"owner3": "6285797226828", 
-	"ownername3": "DHAFF OFFICIAL", 
-	"developer": "6283824417034",  
-	"donasi": "085797226828", 
-	"dana": "083824417034", 
-	"mybio": "https://bit.ly/3qBItS1",
-	"mygmail": "Dhaffofc@gmail.com", 
-	"myyoutube":"https://youtube com/chanell/DHAFF OFFICIAL", 
-	"github": "https://github.com/dhaffnavyz",
-	"linkgc1": "https://chat.whatsapp.com/GToAFWm7W6g9noPQi08Qba", 
-	"linkgc2": "https://chat.whatsapp.com/HbRqzD6M4cgAAGKjGedHlv", 
+	
+//owmner v card
+global.owner = ['994408465157'] //masukin no owner nya
+global.ownername = "ISI PULSA"
+global.ytname = "YT: ARY GAMZ" //ur yt chanel name
+global.socialm = "GitHub: arygamz" //ur github or insta name
+global.location = "Indonesia, Sumut, Sibolangit" //ur location
+
+//bot bombdy
+global.botname = "Arybotz-Md" //ur bot name
+global.websitex = "https://github.com/arygamz" //ur website
+global.vidmenu = { url: 'https://k.top4top.io/m_2368l5agg1.mp4' } //gif and video menu
+global.packname = "Ary Bot Stickers\n\n\n\n\n\n\n🕊️🕊️ "
+global.author = "ARY GAMZ" 
+global.themeemoji = "🕊️"
+global.reactmoji = "🐣"
+global.ownertag = ['994408465157','6281264038909'] //ur owner tag
+global.ownernummenu = ['994408465157','994408465157'] //ur owner number in menu and all
+global.watermark = "Arybotz-MDv3." //ur watermark
+global.botscript = "https://github.com/arygamz/botnoenc"
+global.linkz1 = "https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk"
+global.linkz2 = "https://chat.whatsapp.com/JWMl9LW5g0i0RSj7ophXAk"com/HbRqzD6M4cgAAGKjGedHlv", 
 }
 ```
 </details>
